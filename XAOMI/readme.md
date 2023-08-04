@@ -1,3 +1,4 @@
+
 # X Arduino Open Macro Input
 
 This tool is a simulation of an Xbox controller that run on Arduino and simulate an XInput device.
