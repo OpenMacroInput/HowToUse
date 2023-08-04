@@ -13,10 +13,10 @@ https://www.youtube.com/watch?v=GZQpInN1XUo&ab_channel=%C3%89loiStr%C3%A9e%2C%EA
 
 [![image](https://github.com/OpenMacroInput/HowToUse/assets/99685407/efb2994b-771b-4aec-9697-c1d4e35492f7)](https://youtu.be/zNoE56FDGHA)
 https://youtu.be/zNoE56FDGHA
+  
 
-
----------------------------------
-
+---------------------------------  
+  
 I was waiting the Lynx R1 to work on the Android part of the project.  
 It is still not out yet this year 2023 August.  
 
