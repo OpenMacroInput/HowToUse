@@ -22,3 +22,9 @@ It is still not out yet this year 2023 August.
 
 But as the Oculus Quest 3 is coming on the market.  
 You can expect me to work on the Android part of the project.  
+
+
+-----------------------------
+
+
+This How to use is in close to the AndroidXR HowToUse Tutorial.
